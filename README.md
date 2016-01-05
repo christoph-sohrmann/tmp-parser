@@ -8,13 +8,17 @@ Requirements
 Installation
 ============
 
+```
 $ mkdir debug
 $ cd debug
 $ cmake ..
 $ make
 $ cd ..
+```
 
 Running
 =======
 
+```
 $ ./debug/asm input.asm
+```
